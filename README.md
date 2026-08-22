@@ -12,3 +12,9 @@ or run
 python remapper.py
 ```
 in your terminal.
+
+# Credits
+
+https://github.com/MrBubles/Fabric-Remapper
+
+https://github.com/leibnitz27/cfr
