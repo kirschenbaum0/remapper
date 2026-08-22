@@ -1,3 +1,3 @@
 @echo off
-python "%~dp0decompiler.py" %*
+python "%~dp0remapper.py" %*
 pause
