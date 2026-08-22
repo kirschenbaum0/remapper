@@ -20,7 +20,7 @@ print("Decompiling...")
 os.system("java -jar cfr.jar remapped.jar --outputdir src")
 print("Done decompiling.")
 delete = input("Would you like to delete the remapped jar? Y/N: ")
-if delete == "Y":
+if delete == "Y" or "y":
     os.remove("remapped.jar")
 print("Done! Your source is at src/. Warning: It still is not fully buildable. You need to add gradle for the source to be buildable.")
 print("Thanks for using the decompiler.")
