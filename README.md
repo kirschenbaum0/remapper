@@ -6,6 +6,7 @@ Python
 
 # Usage
 Run remapper.bat on Windows
+
 or run
 ```
 python remapper.py
